@@ -1,11 +1,1 @@
-bin/TotalStepsDataField.prg
-bin/TotalStepsDataField.prg.debug.xml
-bin/gen/006-B4534-00/source/Rez.mcgen
-bin/gen/006-B4536-00/source/Rez.mcgen
-bin/gen/resources/cache/ic320edc2.mbc
-bin/gen/resources/cache/idaa910d1.mbc
-bin/internal-mir/Rez.mir
-bin/mir/source/HelloSimpleDataFieldApp.mir
-bin/mir/source/HelloSimpleDataFieldView.mir
-bin/mir/source/TotalStepsDataFieldApp.mir
-bin/mir/source/TotalStepsDataFieldView.mir
+bin/

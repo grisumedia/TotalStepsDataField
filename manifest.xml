@@ -32,7 +32,6 @@
             <iq:product id="descentmk2s"/>
             <iq:product id="descentmk343mm"/>
             <iq:product id="descentmk351mm"/>
-            <iq:product id="edgeexplore"/>
             <iq:product id="epix2"/>
             <iq:product id="epix2pro42mm"/>
             <iq:product id="epix2pro47mm"/>
@@ -124,6 +123,7 @@
             <iq:product id="vivoactive4"/>
             <iq:product id="vivoactive4s"/>
             <iq:product id="vivoactive5"/>
+            <iq:product id="vivoactive6"/>
             <iq:product id="vivoactive_hr"/>
         </iq:products>
         <!--
